@@ -1,0 +1,1 @@
+ C:\\Users\\Mangesh\ Gavange\\Desktop\\flutter_project\\QuizApp_2\\quizapp_2\\.dart_tool\\flutter_build\\67bca5e11997b7303b6ebfd79d6a5cc7\\native_assets.yaml: 
